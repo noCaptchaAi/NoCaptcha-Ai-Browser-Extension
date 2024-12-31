@@ -1,55 +1,144 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/38348819/235374898-be009746-a4ce-483f-a893-ada7e53f4f80.png" alt="Logo" width="50" />
-<br />
-<h1>qCaptcha, qCaptcha Token, reCAPCTHA v2, ImageToText Captcha</h1>
-<h4>Fast CAPTCHA SOLVING with Ai - <a href="https://github.com/noCaptchaAi/noCaptcha_extension">
-<img src="https://www.google.com/chrome/static/images/chrome-logo-m100.svg"  width="15px"/>
-Chrome Extension</a> <a href="https://github.com/noCaptchaAi/firefox-addon">
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/38348819/246996515-d2baa5cf-f66c-4a9b-823d-33ae4551cca8.png"  width="15px"/>
-Firefox Addon</a> - <a href="https://docs.nocaptchaai.com/en/token/qCaptcha.html">
-Developer API </a> </h4>
+# ![green](https://github.com/user-attachments/assets/3623a6ff-9995-426f-901f-339ae8ce4182) NoCaptchaAi - Automatic CAPTCHA Solver Extension
 
-<p>qCaptcha, qCaptcha Normal/Enterprise Token reCaptcha v2 Image and Audio, ImageToText/OCR</p>
-<p>
+## 🚀 Fast CAPTCHA Solving with AI
 
-<a href="https://t.me/noCaptchaAi" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://discord.gg/E7FfzhZqzA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+NoCaptchaAi is a powerful tool for automatically solving CAPTCHA challenges, including reCAPTCHA v2 (Image & Audio), ImageToText OCR, and more. It works seamlessly through a Chrome extension, Firefox Addon, and Developer API.
 
-<a href="https://github.com/noCaptchaAi/qCaptchaSolverApi/"><img alt="github stars" src="https://img.shields.io/github/stars/noCaptchaAi/qCaptchaSolverApi?style=for-the-badge"></a>
-<a href="https://github.com/noCaptchaAi/qCaptchaSolverApi/"><img alt="github stars" src="https://img.shields.io/npm/v/nocaptchaai-puppeteer?label=npm-puppeteer-solver&style=for-the-badge"></a>
-<a href="https://github.com/noCaptchaAi/qCaptchaSolverApi/"><img alt="github stars" src="https://img.shields.io/npm/v/nocaptchasolver?label=npm-selenium-solver&style=for-the-badge"></a>
-</p>
+---
+
+## 🔗 Social Links
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram_link)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your_discord_link)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your_username_or_repo)
+[![Puppeteer](https://img.shields.io/badge/Puppeteer-000000?style=for-the-badge&logo=puppeteer&logoColor=white)](https://pptr.dev/)
+
+---
+
+### 💻 Available as:
+- [Chrome Extension](https://github.com/noCaptchaAi/noCaptcha_extension)  
+- [Firefox Addon](https://github.com/noCaptchaAi/firefox-addon)
+- [Developer API Documentation](https://docs.nocaptchaai.com/en/token/qCaptcha.html)
+
+---
+
+## 🔥 Features
+
+- **AI-Powered CAPTCHA Solving:** Solve reCAPTCHA v2 challenges (image and audio) instantly.
+- **OCR Support:** Image-to-Text (OCR) solving for CAPTCHA challenges.
+- **Developer-Friendly API:** Access through simple REST API for easy integration.
+
+---
+
+## 🌐 Try Our FREE Plan
+
+Get **6000 free solves per month**. Start using the tool today!
+
+[Dashboard](https://dash.nocaptchaai.com/?ref=github)
+
+---
+
+## 🖼️ Screenshots
+
+### Extension Interface:
+![extension_img](https://github.com/user-attachments/assets/f8acd7b4-d351-478b-8b18-51a5275bb2d2)
 
 
+### Dashboard Plan Interface:
+![dashboard_img](https://github.com/user-attachments/assets/40f953c6-308b-4a76-98b5-bcbda310b261)
 
-<p  align="center">
-<h2>🔥 Try our FREE 6000 solves/month Plan <a href="https://dash.nocaptchaai.com/?ref=github">Here Dashboard</a></a></h2>
-<h2>Developer <a href="https://docs.nocaptchaai.com/en/GetStarted/quickstart.html">Docs</a></a></h2>
-<p> 💲 Paypal - Crypto- Webmoney (Card, UPI, Stripe soon)</p>
-</p>
+---
 
-## ↓ Demo
-![image](https://user-images.githubusercontent.com/4178343/180646819-324163a8-0c4c-4571-b01c-2f98ab8a1127.gif)
+## ⚙️ How to Use
 
-## ↓ Solve with Free Softwares
+### 1. **Using the Chrome Extension**
 
-<p>
+- Install the [Chrome Extension](https://github.com/noCaptchaAi/noCaptcha_extension) from the Chrome Web Store.
+- It will automatically detect and solve CAPTCHAs on supported websites.
 
-<img src="https://www.google.com/chrome/static/images/chrome-logo-m100.svg"  width="45px"/>
+### 2. **Selenium Integration**
 
-[Chrome Extension](https://github.com/noCaptchaAi/noCaptcha_extension)
+- Use with [Selenium](https://github.com/Hammad69275/NoCaptchaSolver) to automate CAPTCHA solving in your projects.
+- Easy integration with Puppeteer, Selenium, or any other automation tool.
 
-<img src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png"/>
+### 3. **UserScript (for JavaScript Automation)**
+
+- Use the [NoCaptchaAi UserScript](https://github.com/noCaptchaAi/qCaptchaSolver.user.js) for seamless browser integration.
+
+### 4. **Puppeteer Solution**
+
+- Use [nocaptchaai-puppeteer](https://github.com/noCaptchaAi/nocaptchaai-puppeteer) to solve CAPTCHAs in Puppeteer.
+
+---
+
+## 📊 Demo
+
+![Demo](https://user-images.githubusercontent.com/4178343/180646819-324163a8-0c4c-4571-b01c-2f98ab8a1127.gif)
 
 
-[Solver Selenium](https://github.com/Hammad69275/NoCaptchaSolver)
+---
 
-<img src="https://img.icons8.com/fluency/48/000000/javascript.png"/>
+## 🔨 Installation
 
-[qCaptchaSolver UserScript](https://github.com/noCaptchaAi/qCaptchaSolver.user.js)
+### 1. **Chrome Extension:**
 
-<img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" width="30px">
+1. Clone the repository.
+2. Go to `chrome://extensions/` in your browser.
+3. Enable "Developer Mode".
+4. Click on "Load unpacked" and select the cloned folder.
 
-[nocaptchaai-puppeteer](https://github.com/noCaptchaAi/nocaptchaai-puppeteer)
+### 2. **Firefox Addon:**
 
-</p>
+1. Download the Firefox Addon from [GitHub](https://github.com/noCaptchaAi/firefox-addon).
+2. Follow the instructions to install it in your browser.
+
+---
+
+## 📑 Documentation
+
+- **Quickstart Guide**: [Get Started](https://docs.nocaptchaai.com/en/GetStarted/quickstart.html)
+- **API Documentation**: [API Docs](https://docs.nocaptchaai.com/en/token/qCaptcha.html)
+
+---
+
+## 🔧 Supported Payment Methods
+
+- PayPal
+- Cryptocurrency
+- Webmoney (Card, UPI, Stripe coming soon)
+
+---
+
+## 📢 Additional Resources
+
+- [NoCaptchaAi GitHub Repository](https://github.com/noCaptchaAi/qCaptchaSolverApi/)
+- [Developer API Docs](https://docs.nocaptchaai.com/en/token/qCaptcha.html)
+
+---
+
+## 📈 Get Involved
+
+- ⭐️ Star the repository on GitHub if you find it useful!
+- 📝 Contribute to the project on [GitHub](https://github.com/noCaptchaAi).
+
+---
+
+## 🔑 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+## 👥 Community
+
+Join our community:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram_link)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your_discord_link)
+
+---
+
+
+### NoCaptchaAi Home_Page Interface:
+![home_page](https://github.com/user-attachments/assets/7c46915c-bd48-41d7-80ae-6737135065f5)
+
