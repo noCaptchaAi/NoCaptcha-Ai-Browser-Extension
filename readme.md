@@ -1,6 +1,6 @@
-# ![green](https://github.com/user-attachments/assets/3623a6ff-9995-426f-901f-339ae8ce4182) NoCaptchaAi - Automatic CAPTCHA Solver Extension
+# ![green](https://github.com/user-attachments/assets/3623a6ff-9995-426f-901f-339ae8ce4182) NoCaptchaAi - CAPTCHA Solver Extension
 
-## 🚀 Fast CAPTCHA Solving with AI
+## 🚀 Fast CAPTCHA Solving with AI Browser Extension for Chrome and Firefox 
 
 NoCaptchaAi is a powerful tool for automatically solving CAPTCHA challenges, including reCAPTCHA v2 (Image & Audio), ImageToText OCR, and more. It works seamlessly through a Chrome extension, Firefox Addon, and Developer API.
 
