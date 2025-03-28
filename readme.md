@@ -15,6 +15,24 @@ NoCaptchaAi is a powerful tool for automatically solving CAPTCHA challenges, inc
 
 ---
 
+
+# 🤖 Automate the Deployment and Config 🤖
+
+1) Dowload the latest zip and extract
+![image](https://github.com/user-attachments/assets/e9a9cf1b-e56b-4d0e-8bfe-1fb302e19c16)
+![image](https://github.com/user-attachments/assets/2ef35647-0777-4e13-a4ce-94ebe192611f)
+
+2) Find the `defaultConfig.json` and 
+![image](https://github.com/user-attachments/assets/356f45c7-8240-456f-a366-302a34071da0)
+
+3) Edit the apikey you got from dashboard [Dashboard](https://dash.nocaptchaai.com/?ref=github)
+![image](https://github.com/user-attachments/assets/e783f7c6-e9de-4439-a062-2ca9c164b90d)
+
+4) Success 🏆 · 🎯 · 🚀 · 🌟 · ✅️
+Now either zip this folder and use as directory to load this on automated browsers and environments
+
+
+
 ### 💻 Available as:
 - [Chrome Extension](https://github.com/noCaptchaAi/noCaptcha_extension)  
 - [Firefox Addon](https://github.com/noCaptchaAi/firefox-addon)
