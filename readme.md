@@ -10,7 +10,9 @@ NoCaptchaAi is a powerful tool for automatically solving CAPTCHA challenges
 - GeeTest v4
 - AWSWAF
 - Binance
-Works Chrome, Brave, Edge, Vivaldi and most chromium based browsers, Firefox,
+  
+Works Chrome, Brave, Edge, Vivaldi and most chromium based browsers, Firefox based browsers
+
 Solutions also available as Developer API https://docs.nocaptchaai.com
 
 <img width="297" alt="{75F50DA3-7070-4458-B698-5399730AADD8}" src="https://github.com/user-attachments/assets/55fcc615-17a3-48f7-9528-2dbca6e6e8e3" />
