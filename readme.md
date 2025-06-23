@@ -63,13 +63,7 @@ Now either zip this folder and use as directory to load this on automated browse
 
 ---
 
-## 🌐 Try Our FREE Plan
-
-Get **6000 free solves per month**. Start using the tool today!
-
-[Dashboard](https://dash.nocaptchaai.com/?ref=github)
-
----
+## 📊 [Dashboard](https://dash.nocaptchaai.com/?ref=github)
 
 ## 🖼️ Screenshots
 
