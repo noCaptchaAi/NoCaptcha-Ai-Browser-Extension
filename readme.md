@@ -1,167 +1,113 @@
-# ![green](https://github.com/user-attachments/assets/3623a6ff-9995-426f-901f-339ae8ce4182) NoCaptchaAi - CAPTCHA Solver Extension
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/07c3453c-0a80-41fc-bf45-e779af19588a" alt="NoCaptchaAI Logo" width="128">
+</p>
 
-## 🚀 Fast CAPTCHA Solving with AI Browser Extension for Chrome and Firefox 
+<h1 align="center">NoCaptchaAI CAPTCHA Solver</h1>
+<h3 align="center">The Official Browser Extension for Chrome, Firefox, Edge, & Brave</h3>
 
-NoCaptchaAi is a powerful tool for automatically solving CAPTCHA challenges
-- reCAPTCHA v2 (Image & Audio)
-- ImageToText OCR, MTCaptcha
-- BLS Captcha
-- TikTok slide and click variants
-- GeeTest v4
-- AWSWAF
-- Binance
-  
-Works Chrome, Brave, Edge, Vivaldi and most chromium based browsers, Firefox based browsers
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/nocaptcha-ai-auto-captcha/hbnbcapieoandchfgacedlkjpdbbejgb"><img src="https://img.shields.io/badge/Chrome_Web_Store-_-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Web Store"></a>
+  &nbsp;
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/nocaptcha-ai-captcha-solver/"><img src="https://img.shields.io/badge/Firefox_Add--ons-_-%23FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Firefox Add-ons"></a>
+  &nbsp;
+  <a href="https://github.com/noCaptchaAi/NoCaptcha-Ai-Browser-Extension/releases"><img src="https://img.shields.io/badge/Download_for_Edge-%230078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Edge Add-ons"></a>
+</p>
 
-Solutions also available as Developer API https://docs.nocaptchaai.com
+<p align="center">
+  <a href="https://github.com/noCaptchaAi/NoCaptcha-Ai-Browser-Extension/releases">
+    <img src="https://img.shields.io/github/v/release/noCaptchaAi/NoCaptcha-Ai-Browser-Extension?style=for-the-badge&label=Latest%20Release&color=brightgreen" alt="Latest Release">
+  </a>
+  &nbsp;
+  <a href="https://github.com/noCaptchaAi/NoCaptcha-Ai-Browser-Extension/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/noCaptchaAi/NoCaptcha-Ai-Browser-Extension?style=for-the-badge&color=blue" alt="License">
+  </a>
+</p>
 
-<img width="297" alt="{75F50DA3-7070-4458-B698-5399730AADD8}" src="https://github.com/user-attachments/assets/55fcc615-17a3-48f7-9528-2dbca6e6e8e3" />
-
-
-
----
-
-## 🔗 Social Links
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram_link)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your_discord_link)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your_username_or_repo)
-[![Puppeteer](https://img.shields.io/badge/Puppeteer-000000?style=for-the-badge&logo=puppeteer&logoColor=white)](https://pptr.dev/)
+The official browser extension for **NoCaptchaAI**, bringing fast and reliable CAPTCHA solving directly to your browser. Once installed and configured, it automatically enhances your browsing experience by handling CAPTCHA challenges for you.
 
 ---
 
+### 📋 Table of Contents
 
-# 🤖 Automate the Deployment and Config 🤖
-
-1) Dowload the latest zip and extract
-![image](https://github.com/user-attachments/assets/e9a9cf1b-e56b-4d0e-8bfe-1fb302e19c16)
-![image](https://github.com/user-attachments/assets/2ef35647-0777-4e13-a4ce-94ebe192611f)
-
-2) Find the `defaultConfig.json` and 
-![image](https://github.com/user-attachments/assets/356f45c7-8240-456f-a366-302a34071da0)
-
-3) Edit the apikey you got from dashboard [Dashboard](https://dash.nocaptchaai.com/?ref=github)
-![image](https://github.com/user-attachments/assets/e783f7c6-e9de-4439-a062-2ca9c164b90d)
-
-4) Success 🏆 · 🎯 · 🚀 · 🌟 · ✅️
-Now either zip this folder and use as directory to load this on automated browsers and environments
-
-
-
-### 💻 Available as:
-- [Chrome Extension](https://github.com/noCaptchaAi/noCaptcha_extension)  
-- [Firefox Addon](https://github.com/noCaptchaAi/firefox-addon)
-- [Developer API Documentation](https://docs.nocaptchaai.com/en/token/qCaptcha.html)
+*   [Screenshot Gallery](#-screenshot-gallery)
+*   [Key Features](#-key-features)
+*   [Installation](#-installation)
+*   [Configuration](#️-configuration)
+*   [Resources & Community](#-resources--community)
+*   [Changelog](#-changelog)
 
 ---
 
-## 🔥 Features
+## 🖼️ Screenshot Gallery
 
-- **AI-Powered CAPTCHA Solving:** Solve reCAPTCHA v2 challenges (image and audio) instantly.
-- **OCR Support:** Image-to-Text (OCR) solving for CAPTCHA challenges.
-- **Developer-Friendly API:** Access through simple REST API for easy integration.
+| Main Interface & Settings | Proxy & User-Agent Configuration |
+| :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github.com/user-attachments/assets/90ac7683-5450-4b0f-8cb3-171f28f35b18" alt="Main UI" width="350">                 | <img src="https://github.com/user-attachments/assets/042ab090-881a-46ae-94ac-2d4162286340" alt="Proxy Settings" width="350">          |
+| <img src="https://github.com/user-attachments/assets/6476ddba-2953-4b5f-9c08-0a269ff7190a" alt="Compact View 1" width="350">             | <img src="https://github.com/user-attachments/assets/782bd8c1-a79c-4df7-affd-e741e1e0dbbb" alt="Compact View 2" width="350">              |
 
----
+## ✨ Key Features
 
-## 📊 [Dashboard](https://dash.nocaptchaai.com/?ref=github)
+*   **Automated CAPTCHA Solving**: Handles various CAPTCHA types quickly and efficiently.
+*   **Proxy Support**: Configure custom proxies to route your requests.
+*   **Custom User-Agent**: Set a custom user-agent string for your requests.
+*   **Intuitive UI/UX**: A clean and easy-to-use interface.
+*   **Resilient Service**: Includes backup API endpoints to ensure service accessibility in all regions.
+*   **Easy Configuration**: Simple JSON-based setup for your API key.
 
-## 🖼️ Screenshots
+## 🚀 Installation
 
-### Dashboard Plan Interface:
-![dashboard_img](https://github.com/user-attachments/assets/40f953c6-308b-4a76-98b5-bcbda310b261)
+For the easiest installation, use the official store links at the top of this page. For manual installation (e.g., for development):
 
----
-
-## ⚙️ How to Use
-
-### 1. **Using the Chrome Extension**
-
-- Install the [Chrome Extension](https://github.com/noCaptchaAi/noCaptcha_extension) from the Chrome Web Store.
-- It will automatically detect and solve CAPTCHAs on supported websites.
-
-### 2. **Selenium Integration**
-
-- Use with [Selenium](https://github.com/Hammad69275/NoCaptchaSolver) to automate CAPTCHA solving in your projects.
-- Easy integration with Puppeteer, Selenium, or any other automation tool.
-
-### 3. **UserScript (for JavaScript Automation)**
-
-- Use the [NoCaptchaAi UserScript](https://github.com/noCaptchaAi/qCaptchaSolver.user.js) for seamless browser integration.
-
-### 4. **Puppeteer Solution**
-
-- Use [nocaptchaai-puppeteer](https://github.com/noCaptchaAi/nocaptchaai-puppeteer) to solve CAPTCHAs in Puppeteer.
+1.  Download the latest release from the **[Releases Page](https://github.com/noCaptchaAi/NoCaptcha-Ai-Browser-Extension/releases)**.
 
 ---
 
-## 📊 Demo
+### **For Chrome / Edge / Brave**
 
-![Demo](https://user-images.githubusercontent.com/4178343/180646819-324163a8-0c4c-4571-b01c-2f98ab8a1127.gif)
+1.  Download the **`.zip`** file from the releases page.
+2.  Extract the contents of the `.zip` file into a dedicated folder.
+3.  Navigate to `chrome://extensions` (for Chrome) or `edge://extensions` (for Edge).
+4.  Enable **"Developer mode"** using the toggle switch, usually in the top-right corner.
+5.  Click the **"Load unpacked"** button and select the folder where you extracted the extension.
 
+### **For Firefox**
 
----
+1.  Download the **`.xpi`** file from the releases page.
+2.  Navigate to `about:addons` in Firefox.
+3.  Click the gear icon (⚙️) on the right, then select **"Install Add-on From File..."**.
+4.  Select the downloaded `.xpi` file to install the extension.
 
-## 🔨 Installation
+## ⚙️ Configuration
 
-### 1. **Chrome Extension:**
+To use the extension, you must add your personal API key.
 
-1. Clone the repository.
-2. Go to `chrome://extensions/` in your browser.
-3. Enable "Developer Mode".
-4. Click on "Load unpacked" and select the cloned folder.
+1.  Get your API key from the **[NoCaptchaAI Dashboard](https://dash.nocaptchaai.com/?ref=github)**.
+    <img src="https://github.com/user-attachments/assets/e783f7c6-e9de-4439-a062-2ca9c164b90d" alt="API Key on Dashboard" width="450">
 
-### 2. **Firefox Addon:**
+2.  In the extension folder you downloaded, find and open the `defaultConfig.json` file.
+    <img src="https://github.com/user-attachments/assets/356f45c7-8240-456f-a366-302a34071da0" alt="defaultConfig.json file" width="450">
 
-1. Download the Firefox Addon from [GitHub](https://github.com/noCaptchaAi/firefox-addon).
-2. Follow the instructions to install it in your browser.
+3.  Paste your API key into the `apiKey` field and save the file.
 
----
+Success! If you installed via "Load unpacked" (Chrome/Edge), reload the extension from the `chrome://extensions` page for the changes to take effect.
 
-## 📑 Documentation
+## 🔗 Resources & Community
 
-- **Quickstart Guide**: [Get Started](https://docs.nocaptchaai.com/en/GetStarted/quickstart.html)
-- **API Documentation**: [API Docs](https://docs.nocaptchaai.com/en/token/qCaptcha.html)
-
----
-
-## 🔧 Supported Payment Methods
-
-- PayPal
-- Cryptocurrency
-- Webmoney (Card, UPI, Stripe coming soon)
-
----
-
-## 📢 Additional Resources
-
-- [NoCaptchaAi GitHub Repository](https://github.com/noCaptchaAi/qCaptchaSolverApi/)
-- [Developer API Docs](https://docs.nocaptchaai.com/en/token/qCaptcha.html)
+*   🌐 **Website**: Visit our official site at [NoCaptchaAI.com](https://www.nocaptchaai.com)
+*   📊 **Dashboard**: Manage your account and view stats at the [NoCaptchaAI Dashboard](https://dash.nocaptchaai.com)
+*   🛠️ **Developer API Docs**: Explore our powerful [API for automation](https://docs.nocaptchaai.com).
+*   💬 **Community**: Join us on [Telegram](https://t.me/your_telegram_link) or [Discord](https://discord.gg/your_discord_link).
 
 ---
 
-## 📈 Get Involved
+## 📝 Changelog
 
-- ⭐️ Star the repository on GitHub if you find it useful!
-- 📝 Contribute to the project on [GitHub](https://github.com/noCaptchaAi).
+### **v1.4.0**
+*   **Feature**: Added full support for custom Proxies.
+*   **Feature**: Added support for custom User-Agents.
+*   **Improvement**: General UI and performance enhancements.
 
----
-
-## 🔑 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-## 👥 Community
-
-Join our community:
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram_link)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your_discord_link)
-
----
-
-
-### NoCaptchaAi Home_Page Interface:
-![home_page](https://github.com/user-attachments/assets/7c46915c-bd48-41d7-80ae-6737135065f5)
-
+### **v1.3.0**
+*   **Major Rewrite**: Complete overhaul of the extension's codebase.
+*   **Improvement**: Updated and modernized UI & UX.
+*   **Feature**: Added backup API endpoints for users in Algeria and Russia to ensure service continuity.
