@@ -36,7 +36,7 @@
 | CAPTCHA Type | Status |
 |---|---|
 | reCAPTCHA v2 / v3 | ✅ |
-| hCaptcha | ✅ |
+| popularCaptcha | ✅ |
 | GeeTest v3 / v4 | ✅ |
 | AWS WAF | ✅ |
 | Tencent | ✅ |
